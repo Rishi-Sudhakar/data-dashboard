@@ -1,0 +1,12 @@
+/* src/components/Dashboard/Dashboard.css */
+.dashboard {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
