@@ -106,6 +106,10 @@ GSAP is used to animate the table and dashboard components to enhance user exper
 
 ScrollMagic is utilized to trigger animations based on scroll events.
 
+<img width="966" alt="Screenshot 2024-06-28 at 9 46 40 PM" src="https://github.com/Rishi-Sudhakar/data-dashboard/assets/79398572/59109585-dd68-4144-a725-773c5383ccb4">
+
+
+
 ## License
 
 This project is licensed under the MIT License.
